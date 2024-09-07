@@ -1,10 +1,40 @@
-- 👋 Hi, I’m DEVANSHU PATIL @patildevanshu
-- 👀 I’m interested in web & Android Devlopment .
-- 🌱 I’m currently learning  java & Data Structures and Algorithms.
-- 📫 How to reach me . my  Email adress : devanshupatil34@gmail.com
-- ⚡ Fun fact: The term "bug" in computer programming originated in 1947 when a moth caused a malfunction in the Harvard Mark II computer. Since then, "debugging" became the common term for fixing glitches in code. 🐞💻...
 
-<!---
-patildevanshu/patildevanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+###
+
+
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/devanshu-patil/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/devanshu_patil_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/918103897604" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/patildevanshu/count.svg?"  />
+</div>
+
+###
+
+
+###
+
+<p align="left">👋 Hi, I’m DEVANSHU PATIL @patildevanshu<br>👀 I’m interested in web & Android Devlopment .<br>🌱 I’m currently learning java & Data Structures and Algorithms.<br>📫 How to reach me . My Email adress : devanshupatil34@gmail.com<br>⚡ Fun fact: The term "bug" in computer programming originated in 1947 when a moth caused a malfunction in the Harvard Mark II computer. Since then, "debugging" became the common term for fixing glitches in code. 🐞💻..</p>
+
+###
